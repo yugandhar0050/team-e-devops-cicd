@@ -39,3 +39,4 @@ jobs:
               -p 80:80 \
               team-e-app:latest
             sudo docker ps
+
